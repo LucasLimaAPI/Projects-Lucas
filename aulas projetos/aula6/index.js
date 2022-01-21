@@ -1,5 +1,5 @@
 //OPERAÇÃO TERNÁRIA !!!
-// (condição)?'Valor para verdadeiro' : 'Valor para falso'
+// (condição)?'Valor verdadeiro' : 'Valor para falso'
 const pontUsuario = 9999;
 const nivelUsuario = pontUsuario >= 1000 ? 'Usuário VIP' : 'Usuário normal'
 
