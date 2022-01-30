@@ -81,8 +81,6 @@ function getNameMonth(numeroMes) {
         case 11:
             nomeMes = 'Dezembro';
             return nomeMes
-
-
     }
 }
 
